@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhoIS HSKrk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu-->
+    <string name="configure_presence_displayer">Presence Displayer</string>
+    <string name="configure_lights_manager">Lights Manager</string>
+
+    <!-- Data -->
+    <string name="whois_json">http://whois.hskrk.pl/whois</string>
+</resources>
