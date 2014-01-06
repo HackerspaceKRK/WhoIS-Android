@@ -1,7 +1,7 @@
 WhoIS-Android
 =============
 
-Android application that created widget displaying number of people in krk hackerspace.
+Android application that creates widget displaying number of people in krk hackerspace.
 
 https://play.google.com/store/apps/details?id=pl.hskrk.whois
 
