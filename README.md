@@ -1,6 +1,16 @@
 WhoIS-Android
 =============
 
-Android application that created two widgets, one displaying the number of people in hackerspace and second allowing to easilly turn on and off hackerspace lights.
+Android application that created widget displaying number of people in krk hackerspace.
 
-Procivided more time, participants, enthusiasm found more features will be added.
+Roadmap:
+- Configuration for the presence displayer widget
+- Optional notifications when hackerspace opennes status changes
+- Light switching widget
+- Configuration for light switching widget
+- App that agregates configuration an provides additional functionalities (f.e. events from meetup) about hackerspace
+- Improving graphics and feeling
+
+Procivided more time, participants, ideas and enthusiasm found more features will be added.
+
+All collaborators kindly welcomed :)
