@@ -2,6 +2,32 @@
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
 
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/pdisp_rtime"
+        android:id="@+id/textView"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" />
+
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:max="3" />
+
+    <CheckBox
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:id="@+id/checkBox"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" />
 </LinearLayout>

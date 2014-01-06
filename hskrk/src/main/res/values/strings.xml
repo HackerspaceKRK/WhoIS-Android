@@ -11,4 +11,13 @@
 
     <!-- Data -->
     <string name="whois_json">http://whois.hskrk.pl/whois</string>
+
+    <!-- Display Names-->
+    <string name="presence_displayer_name">HSKrk WhoIS?</string>
+    <string name="lights_manager_name">HSKrk Światła</string>
+
+    <!-- Presence Displayer -->
+    <string name="presence_displayer_text">Ludzi:  </string>
+    <string name="pdisp_rtime">Odświeżaj co:</string>
+    <string name="pdisp_notif">Daj znać kiedy ktoś pojawi się w HS-ie</string>
 </resources>
